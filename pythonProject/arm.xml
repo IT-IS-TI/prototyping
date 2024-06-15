@@ -1,4 +1,12 @@
-<mujoco model="simple_example">
+<mujoco model="arm_task">
+
+    <option timestep="0.0002" />
+    <actuator>
+        <motor gear="1" joint="hinge_1" name="actuator_motor1" ctrlrange="-300 300" ctrllimited="true"/>
+        <motor gear="1" joint="hinge_2" name="actuator_motor2" ctrlrange="-300 300" ctrllimited="true"/>
+        <motor gear="1" joint="hinge_3" name="actuator_motor3" ctrlrange="-300 300" ctrllimited="true"/>
+        <motor gear="1" joint="hinge_5" name="actuator_motor5" ctrlrange="-300 300" ctrllimited="true"/>
+    </actuator>
 
     <visual>
         <headlight ambient="0.5 0.5 0.5" />
@@ -6,6 +14,9 @@
 
     <asset>
         <material name="white" rgba="1 1 1 1" />
+        <material name="blue_" rgba="0 0 1 1" />
+        <material name="green" rgba="0 1 0 1" />
+        <material name="red__" rgba="1 0 0 1" />
     </asset>
 
     <option gravity="0 0 -9.81" />
@@ -14,32 +25,51 @@
     <light diffuse=".5 .5 .5" pos="0 0 3" dir="0 0 -1"/>
         <geom type="plane" size="1 1 0.1" rgba="0 .9 0 1"/>
 
-        <body pos="0 0 1" euler="0 0 0">
-            <joint type="free"/>
-            <inertial pos="0 0 0" mass="1" diaginertia="0.01 0.01 0.01"/>
-            <geom type="box" size=".1 .2 .3" rgba="1 0 0 1"/>
-            <!-- COmment -->
-            <!--geom type="box" size=".1 .2 .3" material="white"/-->
-        </body>
+        <body pos="0 0 1" euler="0 0 0" name="body">
+            <inertial pos="0 0 0" mass="10" diaginertia="0.01 0.01 0.01"/>
+            <geom type="box" size=".2 .4 .3" rgba="0.2 0.2 0.2 1"/>
 
-        <body pos="0 0 1.5" euler="0 1.57 0">
-            <joint type="free"/>
-            <inertial pos="0 0 0" mass="1" diaginertia="0.01 0.01 0.01"/>
-            <geom type="box" size=".1 .2 .3" rgba="0 0 .9 1"/>
-        </body>
+            <body pos="0 0 0.5" euler="0 0 0" name="head">
+                <inertial pos="0 0 0" mass="1" diaginertia="0.01 0.01 0.01"/>
+                <geom type="box" size=".2 .2 .2" rgba="0.2 0.2 0.2 1"/>
+            </body>
 
+            <body name="link_1" pos="0 -0.5 0.2">
+                <joint name="hinge_1" pos="0 0 0" axis="0 1 0" />
+                <geom type="cylinder" size=".2 .1" pos="0 0 0" euler="90 0 0" material="red__" />
+                <body name="link_2" pos="0 -0.2 0" euler="0 90 90">
+                    <joint name="hinge_2" pos="0 0 0" axis="0 0 1" />
+                    <geom type="cylinder" size=".1 .2" pos="0 0 0" euler="0 0 0" material="blue_" />
+                    <body name="link_3" pos="0 -0.2 0" euler="90 0 0">
+                        <joint name="hinge_3" pos="0 0 0" axis="0 0 1" />
+                        <geom type="cylinder" size=".1 .1" pos="0 0 0" euler="0 0 0" material="green" />
+                        <body name="link_4" pos="0 0 0.3" euler="0 0 0">
+                            <geom type="box" size="0.05 0.05 .2" rgba="0.5 0.2 0.2 1"/>
+                            <body name="link_5" pos="0 0 0.2" euler="0 90 90">
+                                <joint name="hinge_5" pos="0 0 0" axis="0 0 1" />
+                                <geom type="cylinder" size=".1 .1" pos="0 0 0" euler="0 0 0" material="red__" />
+                                <body name="link_6" pos="0 0.2 0" euler="0 0 0">
+                                    <geom type="box" size="0.05 0.1 0.05" rgba="0.5 0.2 0.2 1"/>
+                                </body>
+                            </body>
+                        </body>
+                    </body>
+                </body>
+            </body>
+
+        </body>
         <body pos="0.3 0 1.8" euler="0 1.57 0">
             <joint type="free"/>
             <inertial pos="0 0 0" mass="1" diaginertia="0.01 0.01 0.01"/>
             <geom type="sphere" size=".1" rgba=".5 .5 .5 1"/>
         </body>
 
-        <light name="top" pos="0 0 3"/>
-        <body name="box_and_sphere" euler="0 0 -30">
-            <joint name="swing" type="hinge" axis="1 -1 0" pos="-.2 -.2 -.2"/>
-            <geom name="red_box" type="box" size=".2 .2 .2" rgba="1 0 0 1"/>
-            <geom name="green_sphere" pos=".2 .2 .2" size=".1" rgba="0 1 0 1"/>
-        </body>
+<!--        <light name="top" pos="0 0 3"/>-->
+<!--        <body name="box_and_sphere" euler="0 0 -30">-->
+<!--            <joint name="swing" type="hinge" axis="1 -1 0" pos="-.2 -.2 -.2"/>-->
+<!--            <geom name="red_box" type="box" size=".2 .2 .2" rgba="1 0 0 1"/>-->
+<!--            <geom name="green_sphere" pos=".2 .2 .2" size=".1" rgba="0 1 0 1"/>-->
+<!--        </body>-->
     </worldbody>
 
 </mujoco>
