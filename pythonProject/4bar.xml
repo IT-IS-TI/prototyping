@@ -40,12 +40,9 @@
                 </body>
             </body>
         </body>
-        <body name="link_6" pos="0 8 0" euler="0 0 0">
-            <geom type="cylinder" size=".25 .25" pos="0 0 0" euler="0 90 0" material="white" />
-        </body>
     </worldbody>
     <equality>
-        <connect name="kinematic_link" active="true" body1="link_5" body2="link_6" anchor="0 0 0" />
+        <connect name="kinematic_link" active="true" body1="link_5" anchor="0 0 0" />
     </equality>
 <!--    <contact>-->
 <!--        <exclude body1="link_1" body2="link_2"/>-->
