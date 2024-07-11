@@ -1,0 +1,2214 @@
+Fri Jun 14 15:48:37 2024
+WARNING: Nan, Inf or huge value in QACC at DOF 1. The simulation is unstable. Time = 97.7200.
+
+Sat Jun 15 13:19:20 2024
+WARNING: Nan, Inf or huge value in QACC at DOF 12. The simulation is unstable. Time = 5.1890.
+
+Sat Jun 15 13:20:47 2024
+WARNING: Nan, Inf or huge value in QACC at DOF 13. The simulation is unstable. Time = 8.5432.
+
+Sat Jun 15 13:29:46 2024
+WARNING: Nan, Inf or huge value in QACC at DOF 0. The simulation is unstable. Time = 7.9072.
+
+Sat Jun 15 13:29:55 2024
+WARNING: Nan, Inf or huge value in QACC at DOF 1. The simulation is unstable. Time = 2.9822.
+
+Sat Jun 15 13:31:16 2024
+WARNING: Nan, Inf or huge value in QACC at DOF 6. The simulation is unstable. Time = 4.5176.
+
+Sat Jun 15 13:31:48 2024
+WARNING: Nan, Inf or huge value in QACC at DOF 0. The simulation is unstable. Time = 2.0166.
+
+Sun Jun 16 12:28:15 2024
+WARNING: Inertia matrix is too close to singular at DOF 2. Check model. Time = 0.0000.
+
+Sun Jun 16 12:28:16 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:28:16 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:28:16 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:28:16 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:28:16 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:28:16 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:28:16 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:28:16 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:28:16 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:28:16 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:28:16 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:28:16 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:28:16 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:28:16 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:28:16 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:28:16 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:28:16 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:28:16 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:28:16 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:28:16 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:28:16 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:28:16 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:28:16 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:28:16 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:28:16 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:28:16 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:28:16 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:28:16 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:28:16 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:28:16 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:28:16 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:28:16 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:28:16 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:28:16 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:28:16 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:28:16 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:28:16 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:28:16 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:28:16 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:28:16 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:28:16 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:28:16 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:28:16 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:28:16 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:28:16 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:28:16 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:28:16 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:28:16 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:28:16 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:28:16 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:28:16 2024
+WARNING: Nan, Inf or huge value in QACC at DOF 0. The simulation is unstable. Time = 1.0116.
+
+Sun Jun 16 12:28:16 2024
+WARNING: Inertia matrix is too close to singular at DOF 2. Check model. Time = 0.0000.
+
+Sun Jun 16 12:28:17 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:28:17 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:28:17 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:28:17 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:28:17 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:28:17 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:28:17 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:28:17 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:28:17 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:28:17 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:28:17 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:28:17 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:28:17 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:28:17 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:28:17 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:28:17 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:28:17 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:28:17 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:28:17 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:28:17 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:28:17 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:28:17 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:28:17 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:28:17 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:28:17 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:28:17 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:28:17 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:28:17 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:28:17 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:28:17 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:28:17 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:28:17 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:28:17 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:28:17 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:28:17 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:28:17 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:28:17 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:28:17 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:28:17 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:28:17 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:28:17 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:28:17 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:28:17 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:28:17 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:28:17 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:28:17 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:28:17 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:28:17 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:28:17 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:28:17 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:28:17 2024
+WARNING: Inertia matrix is too close to singular at DOF 2. Check model. Time = 0.0000.
+
+Sun Jun 16 12:28:18 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:28:18 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:28:18 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:28:18 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:28:18 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:28:18 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:28:18 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:28:18 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:28:18 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:28:18 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:28:18 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:28:18 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:28:18 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:28:18 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:28:18 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:28:18 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:28:18 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:28:18 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:28:18 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:28:18 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:28:18 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:28:18 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:28:18 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:28:18 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:28:18 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:28:18 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:28:18 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:28:18 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:28:18 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:28:18 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:28:18 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:28:18 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:28:18 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:28:18 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:28:18 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:28:18 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:28:18 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:28:19 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:28:19 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:28:19 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:28:19 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:28:19 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:28:19 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:28:19 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:28:19 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:28:19 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:28:19 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:28:19 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:28:19 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:28:19 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:28:19 2024
+WARNING: Inertia matrix is too close to singular at DOF 2. Check model. Time = 0.0000.
+
+Sun Jun 16 12:28:20 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:28:20 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:28:20 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:28:20 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:28:20 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:28:20 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:28:20 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:28:20 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:28:20 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:28:20 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:28:20 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:28:20 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:28:20 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:28:20 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:28:20 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:28:20 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:28:20 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:28:20 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:28:20 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:28:20 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:28:20 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:28:20 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:28:20 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:28:20 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:28:20 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:28:20 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:28:20 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:28:20 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:28:20 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:28:20 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:28:20 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:28:20 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:28:20 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:28:20 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:28:20 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:28:20 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:28:20 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:28:20 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:28:20 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:28:20 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:28:20 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:28:20 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:28:20 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:28:20 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:28:20 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:28:20 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:28:20 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:28:20 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:28:20 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:28:20 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:28:20 2024
+WARNING: Inertia matrix is too close to singular at DOF 2. Check model. Time = 0.0000.
+
+Sun Jun 16 12:28:21 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:28:21 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:28:21 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:28:21 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:28:21 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:28:21 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:28:21 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:28:21 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:28:21 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:28:21 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:28:21 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:28:21 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:28:21 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:28:21 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:28:21 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:28:21 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:28:21 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:28:21 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:28:21 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:28:21 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:28:21 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:28:21 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:28:21 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:28:21 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:28:21 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:28:21 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:28:21 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:28:21 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:28:21 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:28:21 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:28:21 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:28:21 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:28:21 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:28:21 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:28:21 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:28:21 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:28:21 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:28:21 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:28:21 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:28:21 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:28:21 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:28:21 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:28:21 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:28:21 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:28:21 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:28:21 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:28:21 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:28:21 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:28:21 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:28:21 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:28:21 2024
+WARNING: Inertia matrix is too close to singular at DOF 2. Check model. Time = 0.0000.
+
+Sun Jun 16 12:28:22 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:28:22 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:28:22 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:28:22 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:28:22 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:28:22 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:28:22 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:28:22 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:28:22 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:28:22 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:28:22 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:28:22 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:28:22 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:28:22 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:28:22 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:28:22 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:28:22 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:28:22 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:28:22 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:28:22 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:28:22 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:28:22 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:28:22 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:28:22 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:28:22 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:28:22 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:28:22 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:28:22 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:28:22 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:28:22 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:28:22 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:28:22 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:28:22 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:28:22 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:28:22 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:28:22 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:28:22 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:28:22 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:28:22 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:28:22 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:28:22 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:28:22 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:28:22 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:28:22 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:28:22 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:28:22 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:28:22 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:28:22 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:28:22 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:28:22 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:28:22 2024
+WARNING: Inertia matrix is too close to singular at DOF 2. Check model. Time = 0.0000.
+
+Sun Jun 16 12:28:23 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:28:23 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:28:23 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:28:23 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:28:23 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:28:23 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:28:23 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:28:23 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:28:23 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:28:23 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:28:23 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:28:23 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:28:23 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:28:23 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:28:23 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:28:23 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:28:23 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:28:23 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:28:23 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:28:23 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:28:23 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:28:23 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:28:23 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:28:23 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:28:23 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:28:23 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:28:23 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:28:23 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:28:23 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:28:23 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:28:23 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:28:23 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:28:23 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:28:23 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:28:23 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:28:23 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:28:23 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:28:23 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:28:23 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:28:23 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:28:23 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:28:23 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:28:23 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:28:23 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:28:23 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:28:23 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:28:23 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:28:23 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:28:23 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:28:23 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:28:23 2024
+WARNING: Inertia matrix is too close to singular at DOF 2. Check model. Time = 0.0000.
+
+Sun Jun 16 12:30:10 2024
+WARNING: Inertia matrix is too close to singular at DOF 2. Check model. Time = 0.0000.
+
+Sun Jun 16 12:30:11 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:30:11 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:30:11 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:30:11 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:30:11 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:30:11 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:30:11 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:30:11 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:30:11 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:30:11 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:30:11 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:30:11 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:30:11 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:30:11 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:30:11 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:30:11 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:30:11 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:30:11 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:30:11 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:30:11 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:30:11 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:30:11 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:30:11 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:30:11 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:30:11 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:30:11 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:30:11 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:30:11 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:30:11 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:30:11 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:30:11 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:30:11 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:30:11 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:30:11 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:30:11 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:30:11 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:30:11 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:30:11 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:30:11 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:30:11 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:30:11 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:30:11 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:30:11 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:30:11 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:30:11 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:30:11 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:30:11 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:30:11 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:30:11 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:30:11 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:30:11 2024
+WARNING: Nan, Inf or huge value in QACC at DOF 0. The simulation is unstable. Time = 1.0116.
+
+Sun Jun 16 12:30:11 2024
+WARNING: Inertia matrix is too close to singular at DOF 2. Check model. Time = 0.0000.
+
+Sun Jun 16 12:30:12 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:30:12 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:30:12 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:30:12 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:30:12 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:30:12 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:30:12 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:30:12 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:30:12 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:30:12 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:30:12 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:30:12 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:30:12 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:30:12 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:30:12 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:30:12 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:30:12 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:30:12 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:30:12 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:30:12 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:30:12 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:30:12 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:30:12 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:30:12 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:30:12 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:30:12 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:30:12 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:30:12 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:30:12 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:30:12 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:30:12 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:30:12 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:30:12 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:30:12 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:30:12 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:30:12 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:30:12 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:30:12 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:30:12 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:30:12 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:30:12 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:30:12 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:30:12 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:30:12 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:30:12 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:30:12 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:30:12 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:30:12 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:30:12 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:30:12 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:30:12 2024
+WARNING: Inertia matrix is too close to singular at DOF 2. Check model. Time = 0.0000.
+
+Sun Jun 16 12:30:13 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:30:13 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:30:13 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:30:13 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:30:13 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:30:13 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:30:13 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:30:13 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:30:13 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:30:13 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:30:13 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:30:13 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:30:13 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:30:13 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:30:13 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:30:13 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:30:13 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:30:13 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:30:13 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:30:13 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:30:13 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:30:13 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:30:13 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:30:13 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:30:13 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:30:13 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:30:13 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:30:13 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:30:13 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:30:13 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:30:13 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:30:13 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:30:13 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:30:13 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:30:13 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:30:13 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:30:13 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:30:13 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:30:13 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:30:13 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:30:13 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:30:13 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:30:13 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:30:13 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:30:13 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:30:14 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:30:14 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:30:14 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:30:14 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:30:14 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:30:14 2024
+WARNING: Inertia matrix is too close to singular at DOF 2. Check model. Time = 0.0000.
+
+Sun Jun 16 12:30:15 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:30:15 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:30:15 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:30:15 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:30:15 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:30:15 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:30:15 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:30:15 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:30:15 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:30:15 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:30:15 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:30:15 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:30:15 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:30:15 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:30:15 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:30:15 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:30:15 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:30:15 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:30:15 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:30:15 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:30:15 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:30:15 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:30:15 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:30:15 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:30:15 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:30:15 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:30:15 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:30:15 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:30:15 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:30:15 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:30:15 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:30:15 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:30:15 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:30:15 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:30:15 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:30:15 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:30:15 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:30:15 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:30:15 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:30:15 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:30:15 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:30:15 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:30:15 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:30:15 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:30:15 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:30:15 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:30:15 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:30:15 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:30:15 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:30:15 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:30:15 2024
+WARNING: Inertia matrix is too close to singular at DOF 2. Check model. Time = 0.0000.
+
+Sun Jun 16 12:30:16 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:30:16 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:30:16 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:30:16 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:30:16 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:30:16 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:30:16 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:30:16 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:30:16 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:30:16 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:30:16 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:30:16 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:30:16 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:30:16 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:30:16 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:30:16 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:30:16 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:30:16 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:30:16 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:30:16 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:30:16 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:30:16 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:30:16 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:30:16 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:30:16 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:30:16 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:30:16 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:30:16 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:30:16 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:30:16 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:30:16 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:30:16 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:30:16 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:30:16 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:30:16 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:30:16 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:30:16 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:30:16 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:30:16 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:30:16 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:30:16 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:30:16 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:30:16 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:30:16 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:30:16 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:30:16 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:30:16 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:30:16 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:30:16 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:30:16 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:30:16 2024
+WARNING: Inertia matrix is too close to singular at DOF 2. Check model. Time = 0.0000.
+
+Sun Jun 16 12:30:17 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:30:17 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:30:17 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:30:17 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:30:17 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:30:17 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:30:17 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:30:17 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:30:17 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:30:17 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:30:17 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:30:17 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:30:17 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:30:17 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:30:17 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:30:17 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:30:17 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:30:17 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:30:17 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:30:17 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:30:17 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:30:17 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:30:17 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:30:17 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:30:17 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:30:17 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:30:17 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:30:17 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:30:17 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:30:17 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:30:17 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:30:17 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:30:17 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:30:17 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:30:17 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:30:17 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:30:17 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:30:17 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:30:17 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:30:17 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:30:17 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:30:17 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:30:17 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:30:17 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:30:17 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:30:17 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:30:17 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:30:17 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:30:17 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:30:17 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:30:17 2024
+WARNING: Inertia matrix is too close to singular at DOF 2. Check model. Time = 0.0000.
+
+Sun Jun 16 12:30:18 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:30:18 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:30:18 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:30:18 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:30:18 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:30:18 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:30:18 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:30:18 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:30:18 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:30:18 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:30:18 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:30:18 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:30:18 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:30:18 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:30:18 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:30:18 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:30:18 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:30:18 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:30:18 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:30:18 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:30:18 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:30:18 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:30:18 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:30:18 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:30:18 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:30:18 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:30:18 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:30:18 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:30:18 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:30:18 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:30:18 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:30:18 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:30:18 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:30:18 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:30:18 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:30:18 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:30:18 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:30:18 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:30:18 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:30:18 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:30:18 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:30:18 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:30:18 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:30:18 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:30:18 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:30:18 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:30:18 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:30:18 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:30:18 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:30:18 2024
+WARNING: Linesearch objective is not convex
+
+Sun Jun 16 12:30:18 2024
+WARNING: Inertia matrix is too close to singular at DOF 2. Check model. Time = 0.0000.
+
+Fri Jun 21 15:30:56 2024
+WARNING: Nan, Inf or huge value in QACC at DOF 1. The simulation is unstable. Time = 2.6460.
+
+Fri Jun 21 15:43:33 2024
+WARNING: Nan, Inf or huge value in QACC at DOF 1. The simulation is unstable. Time = 1.8044.
+
+Fri Jun 21 15:43:46 2024
+WARNING: Nan, Inf or huge value in QACC at DOF 0. The simulation is unstable. Time = 1.8446.
+
+Thu Jul 11 19:39:11 2024
+WARNING: Nan, Inf or huge value in QACC at DOF 0. The simulation is unstable. Time = 1.0360.
+
+Thu Jul 11 20:10:57 2024
+WARNING: Nan, Inf or huge value in QACC at DOF 0. The simulation is unstable. Time = 1.0360.
+
+Thu Jul 11 20:39:04 2024
+WARNING: Nan, Inf or huge value in QACC at DOF 0. The simulation is unstable. Time = 1.0360.
+
+Thu Jul 11 20:44:20 2024
+WARNING: Nan, Inf or huge value in QACC at DOF 0. The simulation is unstable. Time = 0.3760.
+
+Thu Jul 11 20:44:37 2024
+WARNING: Nan, Inf or huge value in QACC at DOF 0. The simulation is unstable. Time = 0.3760.
+
+Thu Jul 11 20:44:59 2024
+WARNING: Nan, Inf or huge value in QACC at DOF 0. The simulation is unstable. Time = 0.3760.
+
+Thu Jul 11 20:58:32 2024
+WARNING: Nan, Inf or huge value in QACC at DOF 0. The simulation is unstable. Time = 1.0360.
+
+Thu Jul 11 21:11:15 2024
+WARNING: Nan, Inf or huge value in QACC at DOF 0. The simulation is unstable. Time = 1.9920.
+
+Thu Jul 11 21:15:18 2024
+WARNING: Nan, Inf or huge value in QACC at DOF 1. The simulation is unstable. Time = 0.5680.
+
+Thu Jul 11 21:15:44 2024
+WARNING: Nan, Inf or huge value in QACC at DOF 0. The simulation is unstable. Time = 0.6140.
+
