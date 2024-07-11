@@ -1,10 +1,11 @@
 import numpy as np
 import pandas as pd
+import mujoco
 import mujoco.viewer
 import matplotlib.pyplot as plt
 import time
 
-model = mujoco.MjModel.from_xml_path(filename='planar3_with_mass.xml')
+model = mujoco.MjModel.from_xml_path('planar3_with_mass.xml')
 data = mujoco.MjData(model)
 
 # Define a linear trajectory (cross) for the end-effector
@@ -17,8 +18,8 @@ num_steps = int(duration / timestep)
 t = np.linspace(0, duration, num_steps)
 
 # Generate cross in Cartesian space
-x_traj = amplitude * np.sin(2 * np.pi * t / duration)
-y_traj = amplitude * np.cos(2 * np.pi * t / duration)
+x_traj = np.concatenate((np.linspace(-amplitude, amplitude, num_steps//2), np.zeros(num_steps//2)))
+y_traj = np.concatenate((np.zeros(num_steps//2), np.linspace(-amplitude, amplitude, num_steps//2)))
 z_traj = np.zeros_like(t)
 
 initial_qpos = np.zeros(3)
@@ -31,7 +32,7 @@ with mujoco.viewer.launch_passive(model, data) as viewer:
         mujoco.mj_forward(model, data)
         # Set target position for the end-effector
         target_pos = np.array([x_traj[i], y_traj[i], z_traj[i]])
-        # Compute IK
+        # Compute IK (assuming simple control for illustration, real IK needs more logic)
         data.qpos[:] = target_pos
         # Calculate ID
         mujoco.mj_inverse(model, data)
@@ -48,10 +49,12 @@ with mujoco.viewer.launch_passive(model, data) as viewer:
 
         mujoco.mj_step(model, data)
         viewer.sync()
+        time.sleep(timestep)
 
-    start_time = time.time()
-    while viewer.is_running() and time.time() - start_time < 10:
-        viewer.sync()
+
+    # start_time = time.time()
+    # while viewer.is_running() and time.time() - start_time < 10:
+    #     viewer.sync()
 
 columns_dynamic = ['time', 'q1', 'q2', 'q3', 'qvel1', 'qvel2', 'qvel3', 'qacc1', 'qacc2', 'qacc3', 'torque1', 'torque2',
                    'torque3', 'x', 'y', 'z']
