@@ -1,0 +1,54 @@
+<mujoco model="parallel_manipulator">
+  <compiler angle="radian" meshdir="meshes/"/>
+  <asset>
+    <mesh name="base_link" file="base_link.stl" scale="0.001 0.001 0.001"/>
+    <mesh name="base11" file="base11.stl" scale="0.001 0.001 0.001"/>
+    <mesh name="base21" file="base21.stl" scale="0.001 0.001 0.001"/>
+    <mesh name="base31" file="base31.stl" scale="0.001 0.001 0.001"/>
+    <mesh name="base_top1" file="base_top1.stl" scale="0.001 0.001 0.001"/>
+    <mesh name="base_top21" file="base_top21.stl" scale="0.001 0.001 0.001"/>
+    <mesh name="base_top31" file="base_top31.stl" scale="0.001 0.001 0.001"/>
+  </asset>
+  <worldbody>
+    <body name="base_link">
+      <inertial pos="0 0 -0.16" quat="0.5 0.5 -0.5 0.5" mass="0.0554884" diaginertia="6.24244e-06 3.58362e-06 3.58362e-06"/>
+      <geom type="mesh" contype="0" conaffinity="0" group="1" density="0" rgba="0.7 0.7 0.7 1" mesh="base_link"/>
+      <geom type="mesh" rgba="0.7 0.7 0.7 1" mesh="base_link"/>
+      <body name="base11" pos="0 0 -0.155">
+        <inertial pos="0.0777064 3.03227e-07 0.0602439" quat="0.676664 0.205281 0.205295 0.676638" mass="0.0867435" diaginertia="0.00031411 0.000298651 1.69147e-05"/>
+        <geom pos="0 0 0.155" type="mesh" contype="0" conaffinity="0" group="1" density="0" rgba="0.7 0.7 0.7 1" mesh="base11"/>
+        <geom pos="0 0 0.155" type="mesh" rgba="0.7 0.7 0.7 1" mesh="base11"/>
+        <body name="base21" pos="0 0 0.005">
+          <inertial pos="-0.0386339 0.0669153 0.0579092" quat="0.921478 -0.289654 -0.0776235 0.24689" mass="0.0851452" diaginertia="0.000295252 0.000280476 1.6206e-05"/>
+          <joint name="Revolute_27" pos="0 0 0" axis="0 0 -1"/>
+          <geom pos="0 0 0.15" type="mesh" contype="0" conaffinity="0" group="1" density="0" rgba="0.7 0.7 0.7 1" mesh="base21"/>
+          <geom pos="0 0 0.15" type="mesh" rgba="0.7 0.7 0.7 1" mesh="base21"/>
+          <body name="base31" pos="0 0 0.005">
+            <inertial pos="-0.0384104 -0.0665294 0.0555821" quat="0.91838 0.299303 -0.0801863 -0.2461" mass="0.0835471" diaginertia="0.000277358 0.000263256 1.55044e-05"/>
+            <joint name="Revolute_28" pos="0 0 0" axis="0 0 -1"/>
+            <geom pos="0 0 0.145" type="mesh" contype="0" conaffinity="0" group="1" density="0" rgba="0.7 0.7 0.7 1" mesh="base31"/>
+            <geom pos="0 0 0.145" type="mesh" rgba="0.7 0.7 0.7 1" mesh="base31"/>
+            <body name="base_top31" pos="-0.055036 -0.095242 0.145049">
+              <inertial pos="0.0803558 0.00131736 -4.9457e-05" quat="-0.0927831 0.70098 0.0928438 0.700999" mass="0.0676052" diaginertia="0.000160728 0.000153271 8.6082e-06"/>
+              <joint name="Revolute_34" pos="0 0 0" axis="-0.5 -0.866025 0"/>
+              <geom pos="0.055036 0.095242 -4.9e-05" type="mesh" contype="0" conaffinity="0" group="1" density="0" rgba="0.7 0.7 0.7 1" mesh="base_top31"/>
+              <geom pos="0.055036 0.095242 -4.9e-05" type="mesh" rgba="0.7 0.7 0.7 1" mesh="base_top31"/>
+            </body>
+          </body>
+          <body name="base_top21" pos="-0.054964 0.095284 0.150049">
+            <inertial pos="-0.039037 -0.0702493 -4.9457e-05" quat="0.560691 0.430895 -0.560644 0.430852" mass="0.0676052" diaginertia="0.000160728 0.000153271 8.6082e-06"/>
+            <joint name="Revolute_33" pos="0 0 0" axis="-0.5 0.866025 0"/>
+            <geom pos="0.054964 -0.095284 -4.9e-05" type="mesh" contype="0" conaffinity="0" group="1" density="0" rgba="0.7 0.7 0.7 1" mesh="base_top21"/>
+            <geom pos="0.054964 -0.095284 -4.9e-05" type="mesh" rgba="0.7 0.7 0.7 1" mesh="base_top21"/>
+          </body>
+        </body>
+        <body name="base_top1" pos="0.11 -4.2e-05 0.155049">
+          <inertial pos="-0.0413188 0.0689319 -4.9457e-05" quat="0.270085 0.653474 -0.270147 0.653488" mass="0.0676052" diaginertia="0.000160728 0.000153271 8.6082e-06"/>
+          <joint name="Revolute_32" pos="0 0 0" axis="1 0 0"/>
+          <geom pos="-0.11 4.2e-05 -4.9e-05" type="mesh" contype="0" conaffinity="0" group="1" density="0" rgba="0.7 0.7 0.7 1" mesh="base_top1"/>
+          <geom pos="-0.11 4.2e-05 -4.9e-05" type="mesh" rgba="0.7 0.7 0.7 1" mesh="base_top1"/>
+        </body>
+      </body>
+    </body>
+  </worldbody>
+</mujoco>
