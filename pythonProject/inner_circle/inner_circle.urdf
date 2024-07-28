@@ -1,0 +1,28 @@
+<?xml version="1.0" ?>
+<robot name="inner_circle">
+
+<material name="silver">
+  <color rgba="0.700 0.700 0.700 1.000"/>
+</material>
+
+<link name="base_link">
+  <inertial>
+    <origin xyz="1.5983603909532303e-09 -1.6291457670216852e-09 0.004999999999999893" rpy="0 0 0"/>
+    <mass value="0.2488128527535996"/>
+    <inertia ixx="0.001084456854997558" iyy="0.001084456854996577" izz="0.0021647668291149085" ixy="2.1418218993929442e-18" iyz="-1.555004680284222e-19" ixz="2.3711187090753185e-14"/>
+  </inertial>
+  <visual>
+    <origin xyz="0 0 0" rpy="0 0 0"/>
+    <geometry>
+      <mesh filename="meshes/base_link.stl" scale="0.001 0.001 0.001"/>
+    </geometry>
+  </visual>
+  <collision>
+    <origin xyz="0 0 0" rpy="0 0 0"/>
+    <geometry>
+      <mesh filename="meshes/base_link.stl" scale="0.001 0.001 0.001"/>
+    </geometry>
+  </collision>
+</link>
+
+</robot>
